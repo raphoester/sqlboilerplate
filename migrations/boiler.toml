@@ -1,0 +1,6 @@
+[psql]
+    dbname = "root"
+    host = "localhost"
+    port = 9999
+    user = "root"
+    sslmode = "disable"
