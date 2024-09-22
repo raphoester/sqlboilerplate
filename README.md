@@ -65,6 +65,6 @@ That means you can switch between BCs and generate boiler code for each of them.
 
 In order to switch DB schemas and associated boiler code, simply use the CTX variable:
 ```shell
-make boil CTX=something
+make boil CTX=shopping
 ```
 
