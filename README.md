@@ -10,6 +10,8 @@ It simplifies model generation with a single make target, making your workflow e
 
 ## Getting Started
 
+*Note: Currently the boilerplate works only for PostgreSQL. Feel free to change that with a PR.* 
+
 **Requirements**
 - Docker and Docker compose 
 - [sqlboiler](github.com/volatiletech/sqlboiler) command line utility
