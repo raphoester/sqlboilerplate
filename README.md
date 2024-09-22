@@ -1,4 +1,4 @@
-# SQLBoilerplate: SQlBoiler setup made easy
+# SQLBoilerplate: SQLBoiler setup made easy
 
 Setting up [sqlboiler](github.com/volatiletech/sqlboiler) can be a pain in the ass.
 
