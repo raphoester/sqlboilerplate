@@ -4,13 +4,11 @@
 package commentsb
 
 var TableNames = struct {
-	Comments         string
-	OutboxEvents     string
-	Replies          string
-	SchemaMigrations string
+	Comments     string
+	OutboxEvents string
+	Replies      string
 }{
-	Comments:         "comments",
-	OutboxEvents:     "outbox_events",
-	Replies:          "replies",
-	SchemaMigrations: "schema_migrations",
+	Comments:     "comments",
+	OutboxEvents: "outbox_events",
+	Replies:      "replies",
 }

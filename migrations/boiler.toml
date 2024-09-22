@@ -4,3 +4,4 @@
     port = 9999
     user = "root"
     sslmode = "disable"
+    blacklist = ["schema_migrations"]

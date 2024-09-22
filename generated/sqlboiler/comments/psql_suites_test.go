@@ -11,6 +11,4 @@ func TestUpsert(t *testing.T) {
 	t.Run("OutboxEvents", testOutboxEventsUpsert)
 
 	t.Run("Replies", testRepliesUpsert)
-
-	t.Run("SchemaMigrations", testSchemaMigrationsUpsert)
 }
