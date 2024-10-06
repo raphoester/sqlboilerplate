@@ -2,7 +2,7 @@
 
 Setting up [sqlboiler](github.com/volatiletech/sqlboiler) can be a pain in the ass.
 
-Running a live DB and re-syncing migrations with boil code every time you update them is a super annoying.
+Running a live DB and re-syncing migrations with boil code every time you update them is super annoying.
 
 SQLBoilerplate fixes that.
 
